@@ -1,0 +1,12 @@
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\config\AwsAppConfig.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\service\AwsS3Service.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\config\BatchConfig.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\model\DealerType.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\batch\FileProcessingTasklet.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\util\CommonUtil.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\SpringRabbitmqProducerApplication.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\config\AwsS3Config.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\model\BucketData.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\service\FileProcessService.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\config\RabbitMqConfig.java
+C:\Bharath\Spring Rabbit_mq_demo\Git\Spring_rabbitmq_producer\SourceCode\spring-rabbitmq-producer\src\main\java\com\example\springrabbitmqproducer\controller\RabbitMqProducerController.java

@@ -26,7 +26,7 @@ public class FileProcessService {
 	@Autowired
 	private RabbitTemplate template;
 	
-	private void processingFiles(BucketData bucketData) {
+	public void processingFiles(BucketData bucketData) {
 		try(Scanner scanner=new Scanner(bucketData.getData())){
 			while(scanner.hasNextLine()) {
 				String line=scanner.nextLine();
