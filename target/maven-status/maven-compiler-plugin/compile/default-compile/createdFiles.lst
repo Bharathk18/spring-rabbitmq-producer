@@ -1,7 +1,15 @@
+com\example\springrabbitmqproducer\config\AwsAppConfig.class
+com\example\springrabbitmqproducer\service\FileProcessService.class
+com\example\springrabbitmqproducer\batch\FileProcessingTasklet.class
+com\example\springrabbitmqproducer\SpringRabbitmqProducerApplication.class
+META-INF\spring-configuration-metadata.json
 com\example\springrabbitmqproducer\config\AwsS3Config.class
 com\example\springrabbitmqproducer\config\RabbitMqConfig.class
+com\example\springrabbitmqproducer\controller\RabbitMqProducerController.class
 com\example\springrabbitmqproducer\model\DealerType$DealerTypeBuilder.class
+com\example\springrabbitmqproducer\service\AwsS3Service.class
+com\example\springrabbitmqproducer\config\BatchConfig.class
 com\example\springrabbitmqproducer\model\BucketData.class
 com\example\springrabbitmqproducer\model\DealerType.class
-META-INF\spring-configuration-metadata.json
+com\example\springrabbitmqproducer\util\CommonUtil.class
 com\example\springrabbitmqproducer\model\BucketData$BucketDataBuilder.class
